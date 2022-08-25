@@ -166,3 +166,91 @@ Received Import Request.
 Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Closed Sprite Shape.prefab using Guid(c0583b4e855c74b8c82e7b9b5efb5ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d633a999cd0db5a929fdc6b8a7f437c') in 0.015364 seconds 
   Import took 0.018055 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 315.112019 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa27944bdea339c97c39027c7eea529c') in 0.011046 seconds 
+  Import took 0.029909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.614728 seconds.
+  path: Packages/com.unity.2d.animation
+  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fa518512abe465e781a54efa05d46a') in 0.001703 seconds 
+  Import took 0.007018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066535 seconds.
+  path: Packages/com.unity.2d.animation/package.json
+  artifactKey: Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/package.json using Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9762aeaf1aec135d86561c4fe80c577') in 0.334401 seconds 
+  Import took 0.341420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.419651 seconds.
+  path: Packages/com.unity.2d.animation/Editor
+  artifactKey: Guid(164d22a8da00e422a93e091c7bd338df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor using Guid(164d22a8da00e422a93e091c7bd338df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de77fe18d6c50299dafc579996d4ccf') in 0.001897 seconds 
+  Import took 0.007670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045246 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Unity.2D.Animation.Editor.asmdef
+  artifactKey: Guid(7e93558c536f24149a3181fbe0a14523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Unity.2D.Animation.Editor.asmdef using Guid(7e93558c536f24149a3181fbe0a14523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226ae3b09d92cf2d26621cb9119ab407') in 0.230747 seconds 
+  Import took 0.237945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.875233 seconds.
+  path: Packages/com.unity.2d.animation/Editor/SpriteSkin
+  artifactKey: Guid(620c158a2e9b847248f3f7ebb6738323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/SpriteSkin using Guid(620c158a2e9b847248f3f7ebb6738323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d4fc351eba3635aa4c37b9cc543055') in 0.001544 seconds 
+  Import took 0.007857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.198786 seconds.
+  path: Packages/com.unity.2d.animation/Editor/SpriteSkin/SpriteSkinCompositeDebugWindow.cs
+  artifactKey: Guid(44669af070a82b748b20b2a0fa6482d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/SpriteSkin/SpriteSkinCompositeDebugWindow.cs using Guid(44669af070a82b748b20b2a0fa6482d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1a4dcfecb4984501abbc26b7180ea2') in 0.198596 seconds 
+  Import took 0.205110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.550544 seconds.
+  path: Packages/com.unity.ide.vscode/package.json
+  artifactKey: Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/package.json using Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2eb58b715695d862cee57d9b6e36af') in 0.009506 seconds 
+  Import took 0.024673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.289546 seconds.
+  path: Packages/com.unity.ide.vscode/Editor
+  artifactKey: Guid(58628227479c34542ac8c5193ccced84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/Editor using Guid(58628227479c34542ac8c5193ccced84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82cea51021df8205a196c318fd8372e8') in 0.001620 seconds 
+  Import took 0.008193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014820 seconds.
+  path: Packages/com.unity.ide.vscode/Editor/Unity.com.unity.vscode.Editor.asmdef
+  artifactKey: Guid(8b845b123ab418448a8be2935fa804e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/Editor/Unity.com.unity.vscode.Editor.asmdef using Guid(8b845b123ab418448a8be2935fa804e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b6ef3f135b63af18b6fbbe340ded76') in 0.002713 seconds 
+  Import took 0.007232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.534848 seconds.
+  path: Packages/com.unity.ide.vscode/Editor/ProjectGeneration
+  artifactKey: Guid(c779d3735d950f341ba35154e8b3234b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/Editor/ProjectGeneration using Guid(c779d3735d950f341ba35154e8b3234b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353b4c12077709bbb16db647ee46b5bd') in 0.001592 seconds 
+  Import took 0.008392 seconds .
+
